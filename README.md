@@ -30,4 +30,7 @@ It's played using a TM4C microcontroller and
 * RESET (pin 3) connected to PA7 (GPIO)
 * VCC (pin 2) connected to +3.3 V
 * Gnd (pin 1) connected to ground
+<br/>
+
 ![image](https://user-images.githubusercontent.com/55002142/184737334-4e787bc9-5382-4319-996c-38521cc3ce36.png)
+*Demo of Nyan Defenders game in progress*
